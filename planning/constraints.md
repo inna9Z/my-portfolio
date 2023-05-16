@@ -9,7 +9,7 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
-- Skill s: As a junior web developer, you may have limited knowledge and
+- Skills: As a junior web developer, you may have limited knowledge and
   experience, which can affect your ability to create a professional and
   high-quality website.
 - Technical: You may face technical limitations with the tools and resources
