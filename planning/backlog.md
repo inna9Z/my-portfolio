@@ -11,6 +11,9 @@ create your own!
 
 ## Home page
 
+- [ ] As a user, I want to see a logo at the top of the page.
+- _There is a logo at the top of the page_
+
 - [ ] As a user, I want to see a navigation bar at the top of the page.
 - _There is a navigation bar with links `Home` `About` `Projects` `Contact`_
 
@@ -19,11 +22,6 @@ create your own!
 
 - [ ] As a user I want to see the photo
 - _There is a photo of the person that this site is about_
-
-## Projects page
-
-- [ ] As a user I want to see the projects
-- _There are four projects with buttons to access their `HitHub` `Live Demo`_
 
 ## About page
 
@@ -35,27 +33,19 @@ create your own!
 - _There is a clear section that lists the skills of the person that this site
   is about_
 
-- [ ] As a user, I want to see the education section
-- _There is a clear section that lists the education background of the person
-  that this site is about_
+## Projects page
+
+- [ ] As a user I want to see the projects
+- _There are four projects with buttons to access their `Demo`_
 
 ## Contact page
 
 - [ ] As a user, I want to see the contact form
 - _There is a clear section with a contact form_
 
-- [ ] As a user, I want to see the location
-- _There is a map section that shows the location_
-
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
-
-### About page
-
-- [ ] As a user I want to see the photo
-- _There is a clear photo of the person and a button labeled `Download CV` that
-  allows users to download a copy of the person's CV_
 
 ## Could-Haves
 

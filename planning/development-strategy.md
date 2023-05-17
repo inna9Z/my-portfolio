@@ -1,55 +1,62 @@
-# Project Name
+# My portfolio
 
-<!-- describe your project -->
+The goal of this project is to create a personal portfolio website to showcase
+my web development skills
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
-
----
-
-<!-- copy this section once for each must-have user story -->
+- create a new repo form the template template-html-css
+- add collaborators
+- turn on GitHub pages and give them write access
+- protect main branch
+- create turn on discussion
 
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
+[Story Dependency Diagram](user-personas.md)
 
-> "as a ... i can ... so that ..."
+## Home page
 
-<!-- write any extra notes or description -->
+### Logo
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- As a user I can see the logo
 
-### Logic: user story
+### Navigation bar
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- As a user I can see the navigation bar of the website.
 
-### Interface: user story
+- The website needs navigation bar.
+- This feature developed on a branch `navigation-bar`.
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+#### HTML
 
-### Interaction: user story
+- add `nav` tag
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+#### CSS
 
-### Documentation: user story
+- add `navigation`
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### Description
+
+- As an user I can easily tell what the page is all about
+
+#### html
+
+- add `h1`
+- add `p`
+
+#### css
+
+- add class `section-description`
+
+### Image
+
+#### html
+
+- add `img`
+
+## About
+
+- As a user I want to see description
