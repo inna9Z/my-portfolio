@@ -30,7 +30,7 @@ my web development skills
 - The website needs navigation bar.
 - This feature developed on a branch `navigation-bar`.
 
-#### HTML
+#### html
 
 - add `nav` tag
 
@@ -38,7 +38,7 @@ my web development skills
 
 - add `navigation`
 
-### Description
+### Home page
 
 - As an user I can easily tell what the page is all about
 
@@ -46,17 +46,31 @@ my web development skills
 
 - add `h1`
 - add `p`
+- add `img`
 
 #### css
 
 - add class `section-description`
 
-### Image
-
-#### html
-
-- add `img`
-
 ## About
 
 - As a user I want to see description
+
+- add html `h1` `p` `span`
+
+- add class css `about-section`
+
+### Portfolio
+
+- As a user I can see the portfolio
+
+- add html `h1` `a`
+
+- add css `portfolio-section`
+
+### Contact
+
+- As a user I can see contact form
+
+- add html `form`
+- add css `contact-section`
