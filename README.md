@@ -7,17 +7,15 @@ or employers to contact me.
 
 ## Table of contents
 
-- Name of project (#name-of-project)
+- [My portfolio](#my-portfolio)
 - [Table of contents](#table-of-contents)
 - [General info](#general-info)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Code Examples](#code-examples)
-- [Features](#features)
 - [Status](#status)
-- [Inspiration](#inspiration)
-- [Contact](#contact)
+- [Links](#links)
 - [Instructions for use](#instructions-for-use)
 - [Code Quality Checks](#code-quality-checks)
 - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -29,51 +27,54 @@ or employers to contact me.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./public/img/screenshot%20.png)
 
 ## Technologies
 
-- Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+- 1. Clone the GitHub repository
+     [Repo](https://github.com/HackYourFutureBelgium/bf-html-and-css.git)
+
+- 2. Navigate to the hack-your-future-belgium directory in your terminal.
+- 3. Navigate to the cloned repository `cd bf-html-and-css`
+- 3. Install dependencies `npm install`
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<div class="content">
+  <p class="subtitle">HELLO</p>
+  <h1 class="title">
+    I'm <span>Inna<br />a</span> Junior web developer
+  </h1>
+  ;
+</div>
 ```
 
-## Features
-
-List of features ready and Todo for future development
-
--
--
--
-
-To-do list:
-
--
--
+```css
+nav {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  z-index: 99;
+}
+```
 
 ## Status
 
-Project is: _in progress_
+Project is: _Completed_
 
-## Inspiration
+## Links
 
-Project by freeCodeCamp.org
-
-## Contact
-
-By [Name]
+[Demo](https://inna9z.github.io/my-portfolio/)
+[Link](https://github.com/inna9Z/my-portfolio)
 
 ## Instructions for use
 
