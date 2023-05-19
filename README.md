@@ -37,12 +37,12 @@ or employers to contact me.
 
 ## Setup
 
-- 1. Clone the GitHub repository
+- Clone the GitHub repository
      [Repo](https://github.com/HackYourFutureBelgium/bf-html-and-css.git)
 
-- 2. Navigate to the hack-your-future-belgium directory in your terminal.
-- 3. Navigate to the cloned repository `cd bf-html-and-css`
-- 3. Install dependencies `npm install`
+- Navigate to the hack-your-future-belgium directory in your terminal.
+- Navigate to the cloned repository `cd bf-html-and-css`
+- Install dependencies `npm install`
 
 ## Code Examples
 
@@ -74,6 +74,7 @@ Project is: _Completed_
 ## Links
 
 [Demo](https://inna9z.github.io/my-portfolio/)
+
 [Link](https://github.com/inna9Z/my-portfolio)
 
 ## Instructions for use
